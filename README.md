@@ -10,7 +10,7 @@ This project is a simple interactive web page built with **HTML**, **CSS**, and 
 
 You can access the website via GitHub Pages:
 
-https://sergiofpaim.github.io/My-WebSite/
+https://sergiofpaim.github.io
 
 ---
 
